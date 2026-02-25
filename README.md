@@ -16,4 +16,24 @@ Xin chào! Mình là Ngọc Hân và dưới đây là một vài thông tin v�
 Mong muốn trở thành một lập trình viên chuyên nghiệp với mức lương cao sau khi ra trường.
 
 ---
-Cảm ơn bạn đã ghé thăm repository của mình!
+## 📌 Giới thiệu dự án đang phát triển
+
+**CaMeoSky.com – Web So Sánh Giá Vé Máy Baye** là một dự án nhóm xây dựng website giúp người dùng:
+
+- 🔍 Tìm kiếm chuyến bay theo điểm đi, điểm đến, ngày bay
+- 💰 So sánh giá vé giữa nhiều hãng hàng không
+- ⏱ Xem thời gian bay, số điểm dừng
+- 📱 Giao diện thân thiện, responsive
+
+🎯 Mục tiêu:  
+Giúp người dùng dễ dàng chọn được chuyến bay phù hợp với mức giá tốt nhất.
+
+---
+
+## 🚀 Tính năng chính
+
+- ✅ Tìm chuyến bay một chiều / khứ hồi
+- ✅ So sánh giá giữa các hãng
+- ✅ Lọc theo giá, thời gian, hãng bay
+- ✅ Gợi ý tìm kiếm thành phố
+- ✅ Giao diện hiện đại, dễ sử dụng
